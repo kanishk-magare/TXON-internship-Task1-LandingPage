@@ -159,3 +159,21 @@ transform: translateY(-15px);
     background: #017143;
     clip-path: circle(600px at right 800px) ;
 }
+footer{
+    background-color: #006633;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 14px;
+}
+  
+ footer p{
+   margin: 0;
+}
+  
+ footer a{
+   color: white;
+   text-decoration: none;
+}
+  
